@@ -1,0 +1,2 @@
+# PowerSH
+Handy powershell scripts
